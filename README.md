@@ -1,2 +1,4 @@
 # Script2Update
-This is an Script to Update your PC if your OS is an enviroment of Linux
+This is a script to upgrade your PC if your OS is Linux environment
+
+Made by Noxwerlock
