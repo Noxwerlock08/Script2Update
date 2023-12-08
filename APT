@@ -5,3 +5,7 @@ apt-get update
 apt full-upgrade -y
 
 apt-get upgrade -y
+
+apt autoremove
+
+echo Your PC is totally Updated
