@@ -2,11 +2,6 @@ apt update
 
 apt-get update
 
-apt upgrade
+apt full-upgrade -y
 
-apt-get upgrade
-
-apt full-upgrade
-
-apt-get full-upgrade
-
+apt-get upgrade -y
