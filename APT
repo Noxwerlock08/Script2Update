@@ -6,6 +6,8 @@ apt full-upgrade -y
 
 apt-get upgrade -y
 
-apt autoremove
+apt autoremove -y
 
-echo Your PC is totally Updated
+apt-get clean && apt-get autoclean -y
+
+echo -e "\e[32mYour PC is totally Updated, now, reboot\e[0m"
