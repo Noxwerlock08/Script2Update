@@ -19,14 +19,14 @@ It is a good tool that I use daily
 
 ## USAGE
 
-'''bash
+```bash
 git clone https://github.com/Noxwerlock08/Script2Update.git
-'''
+```
 
-'''bash
+```bash
 chmod +x APT
-'''
+```
 
-'''bash
+```bash
 sudo ./APT
-'''
+```
