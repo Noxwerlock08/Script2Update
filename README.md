@@ -20,6 +20,10 @@ It is a good tool that I use daily
 ## USAGE
 
 ```bash
+cd Script2Update
+```
+
+```bash
 git clone https://github.com/Noxwerlock08/Script2Update.git
 ```
 
@@ -30,3 +34,5 @@ chmod +x APT
 ```bash
 sudo ./APT
 ```
+
+Optionally `reboot` the PC
